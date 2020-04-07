@@ -1,0 +1,145 @@
+/*Estilos para header */
+
+body{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0;
+}
+header {
+  width:100%;
+  height: 70px;
+	overflow:hidden;
+  margin-bottom:10px;
+}
+
+/*Estilos para redes sociales */
+
+.social {
+  position: fixed;
+  left: 0;
+  top: 300px;
+  z-index: 2000;
+}
+
+.social ul{
+  list-style: none;
+  padding: 0;
+  border: solid 1px;
+  margin: 0px 5px;
+}
+
+.social ul li a{
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+.social ul li a:hover{
+ 
+}
+
+.contenedor {
+	width:95%; 
+	margin:auto;
+  overflow:hidden;
+}
+ 
+header .logo {
+	color:#f2f2f2;
+	font-size:50px;
+	line-height:70px;
+	float:left;
+}
+ 
+header nav {
+	float:right;
+	line-height:70px;
+}
+ 
+header nav a {
+	display:inline-block;
+	color:black;
+	text-decoration:black;
+	padding:10px 20px;
+	line-height:normal;
+	font-size:17px;
+	font-weight:bold;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+ 
+header nav a:hover {
+	background:#f56f3a;
+	border-radius:50px;
+}
+
+/*Estilos para section*/
+
+.desing { 
+    width: 80%;
+    margin:auto;
+}
+
+section .description { 
+    width: 100%;    
+    border: solid 1px;
+}
+
+/*Estilos detail*/
+
+.detail { 
+    margin:10px auto 0px auto ;
+    width: 90%;
+    height: 300px;
+}
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .flex-item {
+    border:solid 1px;
+    padding: 5px;
+    width: 200px;
+    height: 100%;
+    color: black;
+    text-align: center;
+  }
+
+  .flex-item p{
+    text-align: justify;
+
+  }
+
+  .flex-container2 {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .flex-item2 {
+    border:solid 1px;
+    padding: 5px;
+    width: 40%;
+    height: 150px;
+    color: black;
+    text-align: justify;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+/*Estilos footer*/
+
+footer {
+    width: 100%;
+    line-height: 2px;
+    text-align: center;
+    background: brown;
+  }
