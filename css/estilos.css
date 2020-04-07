@@ -10,7 +10,7 @@ header {
   width:100%;
   height: 70px;
 	overflow:hidden;
-  margin-bottom:10px;
+  margin-bottom:20px;
 }
 
 /*Estilos para redes sociales */
@@ -25,7 +25,6 @@ header {
 .social ul{
   list-style: none;
   padding: 0;
-  border: solid 1px;
   margin: 0px 5px;
 }
 
@@ -34,9 +33,34 @@ header {
   padding: 5px 10px;
 }
 
-.social ul li a:hover{
- 
+.social  a:hover{
+  padding: 10px 30px;
 }
+
+/*Estilos para ayuda */
+
+.help {
+  position: fixed;
+  right: 0;
+  top: 450px;
+  z-index: 2000;
+}
+
+.help ul{
+  list-style: none;
+  padding: 0;
+  margin: 0px 5px;
+}
+
+.help ul li a{
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+.help ul li a:hover{
+  padding: 5px 20px ;
+}
+/*Estilos para header */
 
 .contenedor {
 	width:95%; 
@@ -70,20 +94,24 @@ header nav a {
 }
  
 header nav a:hover {
-	background:#f56f3a;
-	border-radius:50px;
+	background:#006880;
+  border-radius:50px;
+  color: white;
 }
 
 /*Estilos para section*/
 
 .desing { 
     width: 80%;
+    min-height: 800px;
     margin:auto;
 }
 
+section{
+  margin-bottom: 20px;
+}
 section .description { 
     width: 100%;    
-    border: solid 1px;
 }
 
 /*Estilos detail*/
@@ -103,33 +131,31 @@ section .description {
   }
   
   .flex-item {
-    border:solid 1px;
     padding: 5px;
     width: 200px;
-    height: 100%;
     color: black;
     text-align: center;
   }
 
   .flex-item p{
     text-align: justify;
-
   }
 
   .flex-container2 {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-between;
     padding: 0;
     margin: 0;
     list-style: none;
+    background: #006880;
   }
   
   .flex-item2 {
-    border:solid 1px;
-    padding: 5px;
+    padding: 10px;
     width: 40%;
-    height: 150px;
-    color: black;
+    height: 250px;
+    color: white;
     text-align: justify;
     font-size: 12px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -141,5 +167,5 @@ footer {
     width: 100%;
     line-height: 2px;
     text-align: center;
-    background: brown;
+    background: #F2880D;
   }
