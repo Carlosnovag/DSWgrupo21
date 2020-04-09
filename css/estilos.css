@@ -148,7 +148,7 @@ section .description {
     padding: 0;
     margin: 0;
     list-style: none;
-    background: #006880;
+    background: #005883;
   }
   
   .flex-item2 {
@@ -167,5 +167,78 @@ footer {
     width: 100%;
     line-height: 2px;
     text-align: center;
-    background: #F2880D;
+    background: #F47920;
   }
+
+/*Estilos estructura*/
+
+.structure{
+  
+  margin:auto;
+  margin-top: 30px;  
+  width: 60%;
+  height: 650Px;
+  background:#d8e3e6;
+  color: #F0B429;
+  text-align: center;
+
+}
+.header{
+    
+  margin-top: 10px;
+  height: 80px;  
+  background:#005883;
+  
+
+}
+.nav{
+
+  margin-top: 10px;
+  float: right;
+  width: 68%;
+  height: 110px;   
+  background:#005883;
+  
+
+}
+.aside{
+
+  margin-top: 10px;
+  float: left;
+  width: 31%;
+  height: 450px;   
+  background:#005883;
+  
+
+}
+.section{
+
+  border-style;
+  margin-top: 10px;
+  float: right;
+  width: 68%;
+  height: 330px;   
+  background:#005883;
+
+}
+
+.article{
+  
+   
+  width: 90%;
+  height: 150px;   
+  background:#005883;
+  border: solid;
+  padding:  1rem;
+
+}
+
+.footer{
+
+  margin-top: 10px;
+  background-position-x: initial;
+  float: right;
+  width: 100%;
+  height: 90px;
+  background:#005883;
+}
