@@ -177,7 +177,7 @@ footer {
   margin:auto;
   margin-top: 30px;  
   width: 60%;
-  height: 650Px;
+  min-height: 650Px;
   background:#d8e3e6;
   color: #F0B429;
   text-align: center;
