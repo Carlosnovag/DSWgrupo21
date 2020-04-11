@@ -260,13 +260,21 @@ footer {
 }
 
 /*Estilos autores*/
+.tituloAutores{
+  background-color: #005883;
+  width: auto;
+  height: 90px;
+  text-align: center;
+  color: white;
+}
+
 .autores{
   margin: auto;
   margin-top: 40px;
   width: 80%;
-  height: 480px;  
+  height: 400px;  
   text-align: center;
-  
+    
 }
 
 .autor-1{
