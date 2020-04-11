@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<!-- saved from url=(0108)chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf -->
+<html dir="ltr" mozdisallowselectionprint=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="google" content="notranslate">
+    <title>cap02.pdf</title>
+
+<!-- This snippet is used in the Chromium extension (included from viewer.html) -->
+<!--<base href="/content/web/">--><base href=".">
+<link rel="resource" type="application/l10n" href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/content/web/locale/locale.properties">
+<script src="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/content/build/pdf.js"></script>
+
+
+    <link rel="stylesheet" href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/content/web/viewer.css">
+
+
+
+    <script src="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/content/web/viewer.js"></script>
+
+  </head>
+
+  <body tabindex="1" class="">
+    <div id="outerContainer">
+
+      <div id="sidebarContainer">
+        <div id="toolbarSidebar">
+          <div class="splitToolbarButton toggled">
+            <button id="viewThumbnail" class="toolbarButton toggled" title="Show Thumbnails" tabindex="2" data-l10n-id="thumbs">
+               <span data-l10n-id="thumbs_label">Thumbnails</span>
+            </button>
+            <button id="viewOutline" class="toolbarButton" title="Show Document Outline (double-click to expand/collapse all items)" tabindex="3" data-l10n-id="document_outline" disabled="">
+               <span data-l10n-id="document_outline_label">Document Outline</span>
+            </button>
+            <button id="viewAttachments" class="toolbarButton" title="Show Attachments" tabindex="4" data-l10n-id="attachments" disabled="">
+               <span data-l10n-id="attachments_label">Attachments</span>
+            </button>
+          </div>
+        </div>
+        <div id="sidebarContent">
+          <div id="thumbnailView"><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=1" title="Page 1"><div class="thumbnail selected" data-page-number="1"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=2" title="Page 2"><div class="thumbnail" data-page-number="2"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=3" title="Page 3"><div class="thumbnail" data-page-number="3"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=4" title="Page 4"><div class="thumbnail" data-page-number="4"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=5" title="Page 5"><div class="thumbnail" data-page-number="5"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=6" title="Page 6"><div class="thumbnail" data-page-number="6"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=7" title="Page 7"><div class="thumbnail" data-page-number="7"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=8" title="Page 8"><div class="thumbnail" data-page-number="8"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=9" title="Page 9"><div class="thumbnail" data-page-number="9"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=10" title="Page 10"><div class="thumbnail" data-page-number="10"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=11" title="Page 11"><div class="thumbnail" data-page-number="11"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=12" title="Page 12"><div class="thumbnail" data-page-number="12"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=13" title="Page 13"><div class="thumbnail" data-page-number="13"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a><a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=14" title="Page 14"><div class="thumbnail" data-page-number="14"><div class="thumbnailSelectionRing" style="width: 100px; height: 77px;"></div></div></a></div>
+          <div id="outlineView" class="hidden"></div>
+          <div id="attachmentsView" class="hidden"></div>
+        </div>
+        <div id="sidebarResizer" class=""></div>
+      </div>  <!-- sidebarContainer -->
+
+      <div id="mainContainer">
+        <div class="findbar hidden doorHanger" id="findbar">
+          <div id="findbarInputContainer">
+            <input id="findInput" class="toolbarField" title="Find" placeholder="Find in document…" tabindex="91" data-l10n-id="find_input">
+            <div class="splitToolbarButton">
+              <button id="findPrevious" class="toolbarButton findPrevious" title="Find the previous occurrence of the phrase" tabindex="92" data-l10n-id="find_previous">
+                <span data-l10n-id="find_previous_label">Previous</span>
+              </button>
+              <div class="splitToolbarButtonSeparator"></div>
+              <button id="findNext" class="toolbarButton findNext" title="Find the next occurrence of the phrase" tabindex="93" data-l10n-id="find_next">
+                <span data-l10n-id="find_next_label">Next</span>
+              </button>
+            </div>
+          </div>
+
+          <div id="findbarOptionsOneContainer">
+            <input type="checkbox" id="findHighlightAll" class="toolbarField" tabindex="94">
+            <label for="findHighlightAll" class="toolbarLabel" data-l10n-id="find_highlight">Highlight all</label>
+            <input type="checkbox" id="findMatchCase" class="toolbarField" tabindex="95">
+            <label for="findMatchCase" class="toolbarLabel" data-l10n-id="find_match_case_label">Match case</label>
+          </div>
+          <div id="findbarOptionsTwoContainer">
+            <input type="checkbox" id="findEntireWord" class="toolbarField" tabindex="96">
+            <label for="findEntireWord" class="toolbarLabel" data-l10n-id="find_entire_word_label">Whole words</label>
+            <span id="findResultsCount" class="toolbarLabel hidden"></span>
+          </div>
+
+          <div id="findbarMessageContainer">
+            <span id="findMsg" class="toolbarLabel"></span>
+          </div>
+        </div>  <!-- findbar -->
+
+        <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight">
+          <div id="secondaryToolbarButtonContainer">
+            <button id="secondaryPresentationMode" class="secondaryToolbarButton presentationMode visibleLargeView" title="Switch to Presentation Mode" tabindex="51" data-l10n-id="presentation_mode">
+              <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+            </button>
+
+            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="52" data-l10n-id="open_file" hidden="true">
+              <span data-l10n-id="open_file_label">Open</span>
+            </button>
+
+            <button id="secondaryPrint" class="secondaryToolbarButton print visibleMediumView" title="Print" tabindex="53" data-l10n-id="print">
+              <span data-l10n-id="print_label">Print</span>
+            </button>
+
+            <button id="secondaryDownload" class="secondaryToolbarButton download visibleMediumView" title="Download" tabindex="54" data-l10n-id="download">
+              <span data-l10n-id="download_label">Download</span>
+            </button>
+
+            <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=1&amp;zoom=auto,-307,622" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark">
+              <span data-l10n-id="bookmark_label">Current View</span>
+            </a>
+
+            <div class="horizontalToolbarSeparator visibleLargeView"></div>
+
+            <button id="firstPage" class="secondaryToolbarButton firstPage" title="Go to First Page" tabindex="56" data-l10n-id="first_page" disabled="">
+              <span data-l10n-id="first_page_label">Go to First Page</span>
+            </button>
+            <button id="lastPage" class="secondaryToolbarButton lastPage" title="Go to Last Page" tabindex="57" data-l10n-id="last_page">
+              <span data-l10n-id="last_page_label">Go to Last Page</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise" tabindex="58" data-l10n-id="page_rotate_cw">
+              <span data-l10n-id="page_rotate_cw_label">Rotate Clockwise</span>
+            </button>
+            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw" title="Rotate Counterclockwise" tabindex="59" data-l10n-id="page_rotate_ccw">
+              <span data-l10n-id="page_rotate_ccw_label">Rotate Counterclockwise</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="cursorSelectTool" class="secondaryToolbarButton selectTool toggled" title="Enable Text Selection Tool" tabindex="60" data-l10n-id="cursor_text_select_tool">
+              <span data-l10n-id="cursor_text_select_tool_label">Text Selection Tool</span>
+            </button>
+            <button id="cursorHandTool" class="secondaryToolbarButton handTool" title="Enable Hand Tool" tabindex="61" data-l10n-id="cursor_hand_tool">
+              <span data-l10n-id="cursor_hand_tool_label">Hand Tool</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="scrollVertical" class="secondaryToolbarButton scrollModeButtons scrollVertical toggled" title="Use Vertical Scrolling" tabindex="62" data-l10n-id="scroll_vertical">
+              <span data-l10n-id="scroll_vertical_label">Vertical Scrolling</span>
+            </button>
+            <button id="scrollHorizontal" class="secondaryToolbarButton scrollModeButtons scrollHorizontal" title="Use Horizontal Scrolling" tabindex="63" data-l10n-id="scroll_horizontal">
+              <span data-l10n-id="scroll_horizontal_label">Horizontal Scrolling</span>
+            </button>
+            <button id="scrollWrapped" class="secondaryToolbarButton scrollModeButtons scrollWrapped" title="Use Wrapped Scrolling" tabindex="64" data-l10n-id="scroll_wrapped">
+              <span data-l10n-id="scroll_wrapped_label">Wrapped Scrolling</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator scrollModeButtons"></div>
+
+            <button id="spreadNone" class="secondaryToolbarButton spreadModeButtons spreadNone toggled" title="Do not join page spreads" tabindex="65" data-l10n-id="spread_none">
+              <span data-l10n-id="spread_none_label">No Spreads</span>
+            </button>
+            <button id="spreadOdd" class="secondaryToolbarButton spreadModeButtons spreadOdd" title="Join page spreads starting with odd-numbered pages" tabindex="66" data-l10n-id="spread_odd">
+              <span data-l10n-id="spread_odd_label">Odd Spreads</span>
+            </button>
+            <button id="spreadEven" class="secondaryToolbarButton spreadModeButtons spreadEven" title="Join page spreads starting with even-numbered pages" tabindex="67" data-l10n-id="spread_even">
+              <span data-l10n-id="spread_even_label">Even Spreads</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator spreadModeButtons"></div>
+
+            <button id="documentProperties" class="secondaryToolbarButton documentProperties" title="Document Properties…" tabindex="68" data-l10n-id="document_properties">
+              <span data-l10n-id="document_properties_label">Document Properties…</span>
+            </button>
+          </div>
+        </div>  <!-- secondaryToolbar -->
+
+        <div class="toolbar">
+          <div id="toolbarContainer">
+            <div id="toolbarViewer">
+              <div id="toolbarViewerLeft">
+                <button id="sidebarToggle" class="toolbarButton" title="Toggle Sidebar" tabindex="11" data-l10n-id="toggle_sidebar">
+                  <span data-l10n-id="toggle_sidebar_label">Toggle Sidebar</span>
+                </button>
+                <div class="toolbarButtonSpacer"></div>
+                <button id="viewFind" class="toolbarButton" title="Find in Document" tabindex="12" data-l10n-id="findbar">
+                  <span data-l10n-id="findbar_label">Find</span>
+                </button>
+                <div class="splitToolbarButton hiddenSmallView">
+                  <button class="toolbarButton pageUp" title="Previous Page" id="previous" tabindex="13" data-l10n-id="previous" disabled="">
+                    <span data-l10n-id="previous_label">Previous</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button class="toolbarButton pageDown" title="Next Page" id="next" tabindex="14" data-l10n-id="next">
+                    <span data-l10n-id="next_label">Next</span>
+                  </button>
+                </div>
+                <input type="number" id="pageNumber" class="toolbarField pageNumber" title="Page" value="1" size="4" min="1" tabindex="15" data-l10n-id="page" max="14">
+                <span id="numPages" class="toolbarLabel">of 14</span>
+              </div>
+              <div id="toolbarViewerRight">
+                <button id="presentationMode" class="toolbarButton presentationMode hiddenLargeView" title="Switch to Presentation Mode" tabindex="31" data-l10n-id="presentation_mode">
+                  <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+                </button>
+
+                <button id="openFile" class="toolbarButton openFile hiddenLargeView" title="Open File" tabindex="32" data-l10n-id="open_file" hidden="true">
+                  <span data-l10n-id="open_file_label">Open</span>
+                </button>
+
+                <button id="print" class="toolbarButton print hiddenMediumView" title="Print" tabindex="33" data-l10n-id="print">
+                  <span data-l10n-id="print_label">Print</span>
+                </button>
+
+                <button id="download" class="toolbarButton download hiddenMediumView" title="Download" tabindex="34" data-l10n-id="download">
+                  <span data-l10n-id="download_label">Download</span>
+                </button>
+                <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.iit.comillas.edu/palacios/cursoweb/cap02.pdf#page=1&amp;zoom=auto,-307,622" id="viewBookmark" class="toolbarButton bookmark hiddenSmallView" title="Current view (copy or open in new window)" tabindex="35" data-l10n-id="bookmark">
+                  <span data-l10n-id="bookmark_label">Current View</span>
+                </a>
+
+                <div class="verticalToolbarSeparator hiddenSmallView"></div>
+
+                <button id="secondaryToolbarToggle" class="toolbarButton" title="Tools" tabindex="36" data-l10n-id="tools">
+                  <span data-l10n-id="tools_label">Tools</span>
+                </button>
+              </div>
+              <div id="toolbarViewerMiddle">
+                <div class="splitToolbarButton">
+                  <button id="zoomOut" class="toolbarButton zoomOut" title="Zoom Out" tabindex="21" data-l10n-id="zoom_out">
+                    <span data-l10n-id="zoom_out_label">Zoom Out</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button id="zoomIn" class="toolbarButton zoomIn" title="Zoom In" tabindex="22" data-l10n-id="zoom_in">
+                    <span data-l10n-id="zoom_in_label">Zoom In</span>
+                   </button>
+                </div>
+                <span id="scaleSelectContainer" class="dropdownToolbarButton" style="min-width: 122px; max-width: 122px;">
+                  <select id="scaleSelect" title="Zoom" tabindex="23" data-l10n-id="zoom" style="min-width: 144px;">
+                    <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto">Automatic Zoom</option>
+                    <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual">Actual Size</option>
+                    <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit">Page Fit</option>
+                    <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width">Page Width</option>
+                    <option id="customScaleOption" title="" value="custom" disabled="disabled" hidden="true"></option>
+                    <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 50 }">50%</option>
+                    <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 75 }">75%</option>
+                    <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 100 }">100%</option>
+                    <option title="" value="1.25" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 125 }">125%</option>
+                    <option title="" value="1.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 150 }">150%</option>
+                    <option title="" value="2" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 200 }">200%</option>
+                    <option title="" value="3" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 300 }">300%</option>
+                    <option title="" value="4" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 400 }">400%</option>
+                  </select>
+                </span>
+              </div>
+            </div>
+            <div id="loadingBar" class="hidden" style="width: calc(100% - 17px);">
+              <div class="progress indeterminate" style="height: 100%; width: 100%;">
+                <div class="glimmer">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <menu type="context" id="viewerContextMenu">
+          <menuitem id="contextFirstPage" label="First Page" data-l10n-id="first_page"></menuitem>
+          <menuitem id="contextLastPage" label="Last Page" data-l10n-id="last_page"></menuitem>
+          <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw"></menuitem>
+          <menuitem id="contextPageRotateCcw" label="Rotate Counter-Clockwise" data-l10n-id="page_rotate_ccw"></menuitem>
+        </menu>
+
+        <div id="viewerContainer" tabindex="0">
+          <div id="viewer" class="pdfViewer"><div class="page" data-page-number="1" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page1" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><span style="left: 519.398px; top: 434.635px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00029);">ETSI ICAI</span><span style="left: 595.435px; top: 434.635px; font-size: 17.1055px; font-family: sans-serif;">!</span><span style="left: 404.825px; top: 455.542px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00035);">Departamento de Sistemas Informáticos</span><span style="left: 710.017px; top: 455.542px; font-size: 17.1055px; font-family: sans-serif;">!</span><span style="left: 497.991px; top: 475.498px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00037);">Rafael Palacios</span><span style="left: 616.85px; top: 475.498px; font-size: 17.1055px; font-family: sans-serif;">!</span><span style="left: 498.943px; top: 496.405px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00033);">Cristina Puente</span><span style="left: 615.891px; top: 494.941px; font-size: 19.0061px; font-family: sans-serif;">!</span><span style="left: 130.402px; top: 251.025px; font-size: 26.6085px; font-family: sans-serif; transform: scaleX(0.995559);">DISEÑO Y CREACIÓN DE PÁGINAS WEB </span><span style="left: 156.368px; top: 346.645px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.05301);">Tema 2. Creación de la primera página web</span><div class="endOfContent"></div></div></div><div class="page" data-page-number="2" style="width: 760px; height: 588px;"><div class="loadingIcon"></div></div><div class="page" data-page-number="3" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page3" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><span style="left: 130.541px; top: 133.774px; font-size: 19.0061px; font-family: sans-serif;">•</span><span style="left: 155.486px; top: 133.774px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(0.998484);">HTML (Hyper-Text markup Language) es un </span><span style="left: 531.895px; top: 133.774px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.0606);">lenguaje de </span><span style="left: 155.249px; top: 156.581px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.08653);">descripción de páginas</span><span style="left: 366.487px; top: 156.581px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00036);"> derivado de otro mayor y más antiguo </span><span style="left: 155.249px; top: 179.388px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00036);">(SGML) </span><span style="left: 130.541px; top: 206.757px; font-size: 19.0061px; font-family: sans-serif;">•</span><span style="left: 155.486px; top: 206.757px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(0.999024);">HTML no es más que una serie de instrucciones que permiten </span><span style="left: 155.249px; top: 229.754px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00036);">especificar las características visuales de un documento </span><span style="left: 130.541px; top: 257.123px; font-size: 19.0061px; font-family: sans-serif;">•</span><span style="left: 155.486px; top: 257.123px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00037);">Se diferencia de otros lenguajes de descripción de página como </span><span style="left: 155.249px; top: 280.12px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00035);">PostScript o PDF en: </span><span style="left: 163.802px; top: 306.853px; font-size: 17.1055px; font-family: sans-serif;">–</span><span style="left: 184.233px; top: 306.853px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00036);">Tienes características hyper-texto (enlaces) </span><span style="left: 163.802px; top: 331.561px; font-size: 17.1055px; font-family: sans-serif;">–</span><span style="left: 184.233px; top: 331.561px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00037);">Se adapta a las preferencias del usuario (resolución, tamaño de </span><span style="left: 184.708px; top: 351.213px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00036);">letra...).  No pretende que el resultado sea idéntico. </span><span style="left: 142.135px; top: 458.872px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00036);">http://www.iit.upcomillas.es/palacios/cursoweb/upload.html </span><span style="left: 455.735px; top: 395.972px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00039);">Tipo de archivo </span><div class="endOfContent"></div></div></div><div class="page" data-page-number="4" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page4" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><span style="left: 134.342px; top: 139.836px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 159.288px; top: 139.836px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00037);">Ejemplo de HTML: </span><span style="left: 167.603px; top: 171.596px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00037);">&lt;HTML&gt; </span><span style="left: 167.603px; top: 199.155px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00039);">&lt;HEAD&gt; </span><span style="left: 167.603px; top: 225.763px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00033);">   &lt;TITLE&gt;Hola&lt;/TITLE&gt; </span><span style="left: 167.603px; top: 253.322px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00037);">&lt;/HEAD&gt; </span><span style="left: 167.603px; top: 280.881px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00037);">&lt;BODY&gt; </span><span style="left: 167.603px; top: 308.439px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00036);">   &lt;P&gt;Hola mundo&lt;/P&gt; </span><span style="left: 167.603px; top: 335.998px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00037);">   &lt;h1&gt;Hola mundo&lt;/h1&gt; </span><span style="left: 167.603px; top: 362.607px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00036);">&lt;/BODY&gt; </span><span style="left: 167.603px; top: 390.165px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00036);">&lt;/HTML&gt; </span><span style="left: 130.541px; top: 442.032px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 155.486px; top: 442.032px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00037);">Como regla general la sintaxis es: </span><span style="left: 163.802px; top: 472.838px; font-size: 16.1552px; font-family: sans-serif; transform: scaleX(1.00036);">&lt;nombre etiqueta&gt; párrafo afectado &lt;/nombre etiqueta&gt;</span><div class="endOfContent"></div></div></div><div class="page" data-page-number="5" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page5" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><div class="endOfContent"></div></div></div><div class="page" data-page-number="6" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page6" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><span style="left: 138.975px; top: 128.551px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 128.551px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00038);">Resulta sencillo pero engorroso escribir </span><span style="left: 163.683px; top: 156.11px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00036);">directamente en HTML. </span><span style="left: 138.975px; top: 189.142px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 189.142px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00035);">Un editor HTML es una aplicación tipo WYSISYG, </span><span style="left: 163.683px; top: 215.979px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00037);">que permite trabajar en modo gráfico o sobre el </span><span style="left: 163.683px; top: 243.537px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00032);">código HTML</span><span style="left: 569.771px; top: 327.19px; font-size: 13.3042px; font-family: sans-serif; transform: scaleX(1.00039);">Colorea la sintaxis </span><div class="endOfContent"></div></div></div><div class="page" data-page-number="7" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page7" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><span style="left: 138.975px; top: 128.551px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.07432);">Editores Comerciales </span><span style="left: 138.975px; top: 161.583px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 161.583px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00038);">Dreamweaver (Adobe) </span><span style="left: 138.975px; top: 193.894px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 193.894px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00036);">Frontpage (Microsoft) </span><span style="left: 138.975px; top: 259.465px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.07819);">Editores Software Libre </span><span style="left: 138.975px; top: 292.725px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 292.725px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00446);">Nvu (N-view). (www.nvu.com) </span><span style="left: 138.975px; top: 325.986px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 325.986px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.01177);">KompoZer. (www.kompozer.net) </span><div class="endOfContent"></div></div></div><div class="page" data-page-number="8" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page8" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><div class="endOfContent"></div></div></div><div class="page" data-page-number="9" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page9" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><span style="left: 221.96px; top: 224.918px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00052);">Head </span><span style="left: 199.153px; top: 310.445px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00043);">Body </span><span style="left: 129.543px; top: 130.719px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00038);">Tipo de documento </span><span style="left: 140.947px; top: 404.406px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00037);">Lo más importante de la sección </span><span style="left: 391.958px; top: 404.406px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.02341);">Head</span><span style="left: 433.786px; top: 404.406px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00036);"> es el título. </span><span style="left: 140.947px; top: 425.313px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00684);">También puede contener palabras clave, idioma, estilos... </span><span style="left: 140.947px; top: 466.176px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.0005);">El </span><span style="left: 160.909px; top: 466.176px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.09753);">Body</span><span style="left: 203.672px; top: 466.176px; font-size: 17.1055px; font-family: sans-serif; transform: scaleX(1.00037);"> contiene toda la información que se presenta al usuario </span><div class="endOfContent"></div></div></div><div class="page" data-page-number="10" data-loaded="true" style="width: 760px; height: 588px;"><div class="canvasWrapper" style="width: 760px; height: 588px;"><canvas id="page10" width="761" height="588" style="width: 761px; height: 588px;"></canvas></div><div class="textLayer" style="width: 760px; height: 588px;"><span style="left: 138.975px; top: 128.551px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 128.551px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.07938);">Títulos de secciones</span><span style="left: 388.262px; top: 128.551px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.0002);">:  </span><span style="left: 172.235px; top: 160.311px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 160.311px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00037);">Título de la página (en head): </span><span style="left: 446.251px; top: 165.519px; font-size: 15.2048px; font-family: monospace; transform: scaleX(1.09619);">&lt;title&gt;Mi página web&lt;/title&gt;</span><span style="left: 172.235px; top: 187.87px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 187.87px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.0006);">Heading 1: </span><span style="left: 289.878px; top: 191.578px; font-size: 17.1055px; font-family: monospace; transform: scaleX(1.09619);">&lt;h1&gt;1 Introcucción&lt;/h1&gt; </span><span style="left: 172.235px; top: 214.478px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 214.478px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.0006);">Heading 2: </span><span style="left: 289.878px; top: 218.187px; font-size: 17.1055px; font-family: monospace; transform: scaleX(1.09619);">&lt;h2&gt;1.2 Motivación&lt;/h2&gt; </span><span style="left: 138.975px; top: 270.868px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 270.868px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.07243);">Resaltar texto</span><span style="left: 314.762px; top: 270.868px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.0002);">: </span><span style="left: 172.235px; top: 302.856px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 302.856px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00038);">Negrita (bold): </span><span style="left: 318.369px; top: 306.565px; font-size: 17.1055px; font-family: monospace; transform: scaleX(1.09619);">&lt;b&gt;negrita&lt;/b&gt; </span><span style="left: 172.235px; top: 329.465px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 329.465px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00037);">Cursiva (italics): </span><span style="left: 333.115px; top: 333.173px; font-size: 17.1055px; font-family: monospace; transform: scaleX(1.09619);">&lt;i&gt;cursiva&lt;/i&gt; </span><span style="left: 172.235px; top: 357.024px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 357.024px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.01092);">Anchura fija (Teletype): </span><span style="left: 394.43px; top: 360.732px; font-size: 17.1055px; font-family: monospace; transform: scaleX(1.09619);">&lt;tt&gt;printf&lt;/tt&gt; </span><span style="left: 138.975px; top: 410.563px; font-size: 22.8073px; font-family: sans-serif;">•</span><span style="left: 163.92px; top: 410.563px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.07769);">Tamaño</span><span style="left: 251.363px; top: 410.563px; font-size: 22.8073px; font-family: sans-serif; transform: scaleX(1.00036);"> (ojo: siempre relativo):  </span><span style="left: 172.235px; top: 441.601px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 441.601px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00041);">Pequeño: </span><span style="left: 279.326px; top: 445.309px; font-size: 17.1055px; font-family: monospace; transform: scaleX(1.09619);">&lt;small&gt;pequeño&lt;/small&gt; </span><span style="left: 172.235px; top: 469.159px; font-size: 19.0061px; font-family: sans-serif;">–</span><span style="left: 192.667px; top: 469.159px; font-size: 19.0061px; font-family: sans-serif; transform: scaleX(1.00039);">Grande: </span><span style="left: 266.622px; top: 472.868px; font-size: 17.1055px; font-family: monospace; transform: scaleX(1.09619);">&lt;big&gt;grande&lt;/big&gt; </span><div class="endOfContent"></div></div></div><div class="page" data-page-number="11" style="width: 760px; height: 588px;"><div class="loadingIcon"></div></div><div class="page" data-page-number="12" style="width: 760px; height: 588px;"><div class="loadingIcon"></div></div><div class="page" data-page-number="13" style="width: 760px; height: 588px;"><div class="loadingIcon"></div></div><div class="page" data-page-number="14" style="width: 760px; height: 588px;"><div class="loadingIcon"></div></div></div>
+        </div>
+
+        <div id="errorWrapper" hidden="true">
+          <div id="errorMessageLeft">
+            <span id="errorMessage"></span>
+            <button id="errorShowMore" data-l10n-id="error_more_info">
+              More Information
+            </button>
+            <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true">
+              Less Information
+            </button>
+          </div>
+          <div id="errorMessageRight">
+            <button id="errorClose" data-l10n-id="error_close">
+              Close
+            </button>
+          </div>
+          <div class="clearBoth"></div>
+          <textarea id="errorMoreInfo" hidden="true" readonly="readonly"></textarea>
+        </div>
+      </div> <!-- mainContainer -->
+
+      <div id="overlayContainer" class="hidden">
+        <div id="passwordOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <p id="passwordText" data-l10n-id="password_label">Enter the password to open this PDF file:</p>
+            </div>
+            <div class="row">
+              <input type="password" id="password" class="toolbarField">
+            </div>
+            <div class="buttonRow">
+              <button id="passwordCancel" class="overlayButton"><span data-l10n-id="password_cancel">Cancel</span></button>
+              <button id="passwordSubmit" class="overlayButton"><span data-l10n-id="password_ok">OK</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="documentPropertiesOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="document_properties_file_name">File name:</span> <p id="fileNameField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_file_size">File size:</span> <p id="fileSizeField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_title">Title:</span> <p id="titleField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_author">Author:</span> <p id="authorField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_subject">Subject:</span> <p id="subjectField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_keywords">Keywords:</span> <p id="keywordsField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creation_date">Creation Date:</span> <p id="creationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_modification_date">Modification Date:</span> <p id="modificationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creator">Creator:</span> <p id="creatorField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_producer">PDF Producer:</span> <p id="producerField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_version">PDF Version:</span> <p id="versionField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_page_count">Page Count:</span> <p id="pageCountField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_page_size">Page Size:</span> <p id="pageSizeField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_linearized">Fast Web View:</span> <p id="linearizedField">-</p>
+            </div>
+            <div class="buttonRow">
+              <button id="documentPropertiesClose" class="overlayButton"><span data-l10n-id="document_properties_close">Close</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="printServiceOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="print_progress_message">Preparing document for printing…</span>
+            </div>
+            <div class="row">
+              <progress value="0" max="100"></progress>
+              <span data-l10n-id="print_progress_percent" data-l10n-args="{ &quot;progress&quot;: 0 }" class="relative-progress">0%</span>
+            </div>
+            <div class="buttonRow">
+              <button id="printCancel" class="overlayButton"><span data-l10n-id="print_progress_close">Cancel</span></button>
+            </div>
+          </div>
+        </div>
+<div id="chromeFileAccessOverlay" class="container hidden">
+  <div class="dialog">
+    <div class="row">
+      <!-- The extension icon (PDF.js logo) will be shown at the left, to help
+           users with recognizing which checkbox they have to click when they
+           visit chrome://extensions.
+      -->
+      <p id="chrome-pdfjs-logo-bg" style="
+          display: block;
+          padding-left: 60px;
+          min-height: 48px;
+          background-size: 48px;
+          background-repeat: no-repeat;
+          font-size: 14px;
+          line-height: 1.8em;
+          word-break: break-all;">
+        Click on
+        "<span id="chrome-file-access-label">Allow access to file URLs</span>"
+        at
+        <a id="chrome-link-to-extensions-page">chrome://extensions</a>
+        <br>
+        to view <span id="chrome-url-of-local-file">this PDF file.</span>
+      </p>
+    </div>
+    <div class="row">
+      <p>
+        or select the file again:
+        <input type="file" id="chrome-file-fallback" accept=".pdf">
+      </p>
+    </div>
+  </div>
+</div>
+
+      </div>  <!-- overlayContainer -->
+
+    </div> <!-- outerContainer -->
+    <div id="printContainer"></div>
+  
+
+
+</body></html>
